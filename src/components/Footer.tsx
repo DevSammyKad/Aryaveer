@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import { Mountain } from 'lucide-react';
 import Image from 'next/image';
 import logo from '@/images/logo.jpg';
 

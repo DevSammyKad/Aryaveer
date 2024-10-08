@@ -1,8 +1,7 @@
-import { useState } from 'react';
 import Link from 'next/link';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
-import { Wrench } from 'lucide-react';
+
 import logo from '@/images/logo.jpg';
 import Image from 'next/image';
 

@@ -11,8 +11,9 @@ export default function ContactPage() {
           <h2 className="text-2xl font-semibold mb-4">Get in Touch</h2>
           <p className="mb-4">
             Have questions about our products or need assistance with your
-            order? We're here to help!
+            order? We&apos;re here to help!
           </p>
+
           <div className="mb-4">
             <h3 className="text-lg font-semibold mb-2">Address</h3>
             <p>Near CANOL AT SATKAR STHAL EAST POST RAJGURUNAGAR 410505</p>
